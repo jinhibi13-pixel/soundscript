@@ -6,7 +6,7 @@ Unicode Private Use Area（U+E000–U+F8FF）を利用し、1文字あたり12bi
 動作環境
 Python 3.8以上
 Windows（.bat使用）
-※Pythonがインストールされていない場合は https://www.python.org/downloads/� から取得してください。
+※Pythonがインストールされていない場合は https://www.python.org/ から取得してください。
 セットアップ
 以下のファイルを同じフォルダに配置してください。
 
